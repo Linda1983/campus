@@ -17,3 +17,10 @@ Alors que le système traditionnel open source amène chaque contributeur à té
 
 # Utilisateurs
 Une étude de 2018 montre que le contributorat des personnes disposant d'un mail officiel issu d'une GAFAMI pèse davantage que le contributorat de personnes indépendantes. Les entreprises qui constituent la plus grosse part des contributions sont : Microsoft, Google, Jetbrains, Apple, Facebook, Red Hat / IBM, Intel et Pivotal15,16. Ceci vient tempérer la vision d'une guerre entre le libre et les GAFAMI, et cache en partie une vision commune partagée de recherche d'efficacité, les différences idéologiques passant alors au second plan
+
+# Depuis 2019
+En 2019, est mis en place une restriction d'échanges des États-Unis d'Amérique (anglais : U.S. trade restrictions), dont l'Iran, la Syrie, la Crimée, et potentiellement d'autres pays (Github mentionne Cuba et la Corée du Nord) sont concernés. Github bloque alors fin juillet l'accès à ses services à ces pays. Ainsi les utilisateurs depuis ces pays se voient également bloquer l'accès à leurs dépôts privés, à la place de marché GitHub, ainsi qu'à la maintenance des comptes des organisations privées rémunérées11.
+
+Le 25 janvier 2023, GitHub publie un article de blog12 pour annoncer avoir dépassé la barre des 100 millions d'utilisateurs.
+
+En février 2024, le cofondateur de GitHub Chris Wanstrath (en) est exclu temporairement de la plateforme
