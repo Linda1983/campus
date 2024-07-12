@@ -1,2 +1,5 @@
-# Mon premier projet GitHub
-Ceci est un super projet
+# Mémo Git et GitHub
+# Différence entre git et github
+Github est une platforme d'hébrgement de projets git
+Des supers projets en ligne
+
