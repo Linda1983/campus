@@ -14,3 +14,6 @@ En 2018, GitHub est acquis par Microsoft pour 7,5 milliards de dollars.
 
 # Particularité du Git
 Alors que le système traditionnel open source amène chaque contributeur à télécharger les sources du projet et à proposer ensuite ses modifications à l’équipe du projet, GitHub repose sur le principe du fork (embranchement) par défaut : toute personne « forkant » le projet devient publiquement le leader d'une copie portant le même nom que l’original. 
+
+# Utilisateurs
+Une étude de 2018 montre que le contributorat des personnes disposant d'un mail officiel issu d'une GAFAMI pèse davantage que le contributorat de personnes indépendantes. Les entreprises qui constituent la plus grosse part des contributions sont : Microsoft, Google, Jetbrains, Apple, Facebook, Red Hat / IBM, Intel et Pivotal15,16. Ceci vient tempérer la vision d'une guerre entre le libre et les GAFAMI, et cache en partie une vision commune partagée de recherche d'efficacité, les différences idéologiques passant alors au second plan
